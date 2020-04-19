@@ -3,7 +3,7 @@ mathi going to be a wrapper for golang [math](https://golang.org/pkg/math) packa
 
 ## supported math func 
 - [x] Abs
-- [ ] Ceil
+- [x] Ceil
 - [ ] Copysign
 - [ ] Dim
 - [ ] Floor
