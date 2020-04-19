@@ -1,5 +1,5 @@
 # mathi
-mathi going to be a wrapxer for golang [math](https://golang.org/pkg/math) package but it going to accept or return int64 instead of float64
+mathi going to be a wrapper for golang [math](https://golang.org/pkg/math) package but it going to accept or return int64 instead of float64
 
 ## supported math func 
 - [x] Abs
@@ -15,4 +15,4 @@ mathi going to be a wrapxer for golang [math](https://golang.org/pkg/math) packa
 - [x] RoundToEven
 
 ## new mathi func
-- [ ] RoundN
+- [x] RoundN
